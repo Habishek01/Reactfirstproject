@@ -1,0 +1,15 @@
+
+
+.box{
+  width: 70%;
+  height: 50vh;
+  background-color: yellow;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+.iBox{
+ 
+}
